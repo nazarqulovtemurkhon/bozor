@@ -1,2 +1,1 @@
-# bozor
-savdo
+# Here are your Instructions
