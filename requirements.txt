@@ -1,0 +1,12 @@
+# WiFi Password Cracker Requirements
+# These packages need to be installed via Termux package manager
+
+# Core tools (install via pkg):
+# aircrack-ng
+# wireless-tools
+# python
+# git
+
+# Python packages (install via pip):
+colorama>=0.4.4
+requests>=2.25.1
